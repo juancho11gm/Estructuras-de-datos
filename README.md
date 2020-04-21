@@ -1,2 +1,2 @@
-# Estructuras-de-datos
-Proyecto estructuras de datos Cajas envolventes C++
+# Data structures
+Data structures project Enclosure boxes C ++
